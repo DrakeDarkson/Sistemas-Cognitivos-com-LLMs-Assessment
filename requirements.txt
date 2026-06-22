@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+tqdm

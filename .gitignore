@@ -1,0 +1,33 @@
+# Ambientes e variáveis sensíveis
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos gerados
+data/processed/
+outputs/
+*.log
+
+# Índices vetoriais
+chroma_db/
+faiss_index/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Chaves, tokens e credenciais
+*.key
+*.pem
+credentials.json
+secrets.json
