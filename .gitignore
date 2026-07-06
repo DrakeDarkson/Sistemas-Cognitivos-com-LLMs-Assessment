@@ -31,3 +31,7 @@ Thumbs.db
 *.pem
 credentials.json
 secrets.json
+
+# Modelos locais
+models/
+*.gguf

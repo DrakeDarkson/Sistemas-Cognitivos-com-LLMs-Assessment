@@ -1,0 +1,51 @@
+Título: Crise de 1929 e limites do capitalismo industrial
+
+Período principal: 1929-1936
+
+Temas:
+crise de 1929; Grande Depressão; capitalismo liberal; bolsa de valores; bancos; desemprego; superprodução; intervenção estatal; New Deal
+
+Países e atores:
+Estados Unidos; economias industrializadas; bancos; investidores; trabalhadores; agricultores; governo federal; empresas; consumidores
+
+Observação metodológica:
+Este documento é um texto autoral/sintético em português, elaborado para servir como corpus didático de um sistema RAG. O conteúdo foi redigido por paráfrase e síntese a partir de fontes históricas confiáveis, sem reprodução literal extensa de textos externos. O objetivo é apoiar testes de recuperação semântica, geração de respostas fundamentadas e análise de limitações do pipeline.
+
+
+Texto:
+A crise de 1929 foi um dos acontecimentos econômicos mais importantes do século XX. Ela não pode ser explicada apenas pela queda da bolsa de valores, mas o colapso financeiro de outubro de 1929 tornou-se símbolo de uma crise mais ampla do capitalismo industrial e financeiro. A década de 1920 havia sido marcada por crescimento industrial, consumo, crédito, especulação e otimismo nos Estados Unidos. Ao mesmo tempo, havia fragilidades profundas: desigualdade de renda, endividamento, problemas agrícolas, excesso de capacidade produtiva em alguns setores, especulação com ações e sistema bancário vulnerável.
+
+A bolsa de valores de Nova York cresceu intensamente durante os anos 1920. Muitos investidores compravam ações com dinheiro emprestado, apostando que os preços continuariam subindo. Quando a confiança começou a diminuir, vendas em massa provocaram quedas rápidas. Em outubro de 1929, dias como a chamada Black Thursday e, sobretudo, Black Monday e Black Tuesday, marcaram o colapso das expectativas. O Dow Jones caiu fortemente e continuou perdendo valor nos anos seguintes.
+
+A queda da bolsa não foi a única causa da Grande Depressão. Ela agravou a perda de confiança, reduziu riqueza financeira e afetou bancos, empresas e consumidores. A partir de 1930, falências bancárias tiveram efeitos devastadores, pois destruíam poupanças, contraíam crédito e reduziam investimento. Empresas cortavam produção e demitiam trabalhadores; desempregados consumiam menos; a queda do consumo reduzia receitas empresariais, gerando um ciclo de contração.
+
+A crise atingiu também agricultores. Muitos já enfrentavam queda de preços e dívidas antes de 1929. A superprodução agrícola, combinada com baixa renda rural e dificuldades de crédito, aumentou a vulnerabilidade do setor. Como a economia industrial dependia de consumo amplo, desigualdade e baixa renda de parte da população limitaram a capacidade de absorver a produção.
+
+A Grande Depressão tornou-se internacional. Economias conectadas por comércio, crédito e padrão-ouro transmitiram choques umas às outras. Países reduziram importações, elevaram tarifas e protegeram mercados internos, mas isso frequentemente agravou a retração do comércio mundial. Países exportadores de matérias-primas sofreram com queda de preços, mostrando que a crise não afetou apenas centros industriais.
+
+Politicamente, a crise abalou a confiança no liberalismo econômico clássico. A ideia de que mercados se ajustariam sozinhos parecia insuficiente diante de desemprego em massa, falências e miséria. Nos Estados Unidos, o New Deal de Franklin D. Roosevelt ampliou o papel do Estado na economia, com programas de obras públicas, regulação financeira, assistência social, apoio ao emprego e reformas institucionais. Embora seus resultados sejam debatidos, o New Deal representou mudança importante na relação entre Estado, mercado e sociedade.
+
+A crise também influenciou debates ideológicos. Para socialistas e comunistas, ela parecia confirmar contradições do capitalismo. Para reformistas, indicava a necessidade de regulação e proteção social. Para movimentos autoritários, forneceu terreno para discursos nacionalistas, anticomunistas ou antiliberais. Assim, a crise econômica teve consequências sociais e políticas profundas.
+
+Entre 1836 e 1936, a crise de 1929 encerra simbolicamente um século de confiança no avanço industrial e no mercado liberal. Ela mostrou que produção em massa, crédito, finanças e consumo podiam gerar crescimento, mas também instabilidade sistêmica. A economia moderna, depois de 1929, passou a ser pensada cada vez mais em termos de regulação, política macroeconômica, proteção social e responsabilidade estatal diante de crises.
+
+Pontos-chave:
+- A crise de 1929 foi financeira, produtiva, bancária, social e internacional.
+- Especulação e compra de ações com crédito ampliaram riscos.
+- Falências bancárias e desemprego aprofundaram a Grande Depressão.
+- A crise abalou a confiança no capitalismo liberal sem regulação.
+- O New Deal fortaleceu a ideia de intervenção estatal em crises econômicas.
+
+Possíveis perguntas ao sistema:
+- Como a crise de 1929 afetou o capitalismo industrial?
+- A queda da bolsa causou sozinha a Grande Depressão?
+- Qual foi o papel dos bancos na crise?
+- Por que o New Deal foi uma mudança importante?
+
+Limitações:
+O texto resume interpretações gerais e não aprofunda debates monetaristas, keynesianos, internacionais ou regionais sobre a Grande Depressão.
+
+Fontes consultadas:
+- Federal Reserve History, Stock Market Crash of 1929.
+- Encyclopaedia Britannica, Stock market crash of 1929.
+- Federal Reserve History, Banking Panics of 1930-31.

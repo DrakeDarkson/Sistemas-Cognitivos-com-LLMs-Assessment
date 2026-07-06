@@ -1,0 +1,52 @@
+Título: Estados Unidos e capitalismo industrial
+
+Período principal: 1865-1936
+
+Temas:
+capitalismo industrial; produção em massa; ferrovias; aço; petróleo; eletricidade; grandes corporações; mercado interno; crise de 1929
+
+Países e atores:
+Estados Unidos; empresas industriais; trabalhadores urbanos; imigrantes; agricultores; bancos; consumidores; Estado federal
+
+Observação metodológica:
+Este documento é um texto autoral/sintético em português, elaborado para servir como corpus didático de um sistema RAG. O conteúdo foi redigido por paráfrase e síntese a partir de fontes históricas confiáveis, sem reprodução literal extensa de textos externos. O objetivo é apoiar testes de recuperação semântica, geração de respostas fundamentadas e análise de limitações do pipeline.
+
+
+Texto:
+Entre o fim da Guerra Civil e as primeiras décadas do século XX, os Estados Unidos passaram por rápida expansão industrial. O país combinou território continental, abundância de recursos naturais, crescimento populacional, imigração, mercado interno amplo, ferrovias, inovação técnica e acesso a capital. Essa combinação favoreceu setores como aço, petróleo, eletricidade, máquinas, alimentos processados, bens de consumo e, posteriormente, automóveis.
+
+As ferrovias tiveram papel estruturante. Elas integraram regiões agrícolas, mineradoras e industriais, reduziram custos de transporte e criaram um mercado nacional. A expansão ferroviária também estimulou mineração de carvão, produção de aço, engenharia, finanças e administração empresarial. Empresas ferroviárias foram algumas das primeiras organizações de grande escala no país, exigindo contabilidade, hierarquias, padronização e planejamento.
+
+O aço simbolizou o salto da indústria pesada. Grandes empresas siderúrgicas produziram materiais para trilhos, pontes, edifícios, máquinas, navios e equipamentos. O petróleo tornou-se setor estratégico com a expansão da iluminação, lubrificantes e, depois, combustíveis para motores. A eletricidade abriu mercados em geração, transmissão, iluminação, motores e aparelhos urbanos. Esses setores favoreceram concentração empresarial, integração vertical e crescimento de corporações.
+
+A industrialização estadunidense destacou-se pela escala. O país possuía mercado interno enorme, capaz de absorver produção padronizada. No início do século XX, a indústria automobilística e a produção em massa demonstraram um modelo de capitalismo baseado em grandes volumes, linhas de montagem, redução de custos unitários e expansão do consumo. Esse padrão influenciou a economia moderna ao aproximar produção industrial, publicidade, crédito ao consumidor e cultura de consumo.
+
+O crescimento industrial produziu riqueza, mas também conflitos. Trabalhadores enfrentaram jornadas longas, acidentes, salários desiguais, moradias precárias e insegurança econômica. A imigração forneceu mão de obra, mas também alimentou tensões étnicas, urbanas e políticas. Greves e sindicatos ganharam visibilidade, mesmo enfrentando repressão e dificuldades de organização em setores dominados por grandes empresas.
+
+A relação entre mercado e Estado foi ambígua. A cultura econômica estadunidense valorizava iniciativa privada, concorrência e empreendedorismo. Ao mesmo tempo, o Estado desempenhou papéis importantes por meio de concessões de terras, tarifas, legislação, infraestrutura, patentes, expansão territorial e, posteriormente, regulação antitruste. O capitalismo industrial dos Estados Unidos não foi ausência de Estado, mas uma combinação entre dinamismo privado e condições institucionais favoráveis.
+
+A crise de 1929 revelou fragilidades desse modelo. A especulação financeira, desigualdade de renda, endividamento, problemas agrícolas, superprodução em alguns setores e instabilidade bancária contribuíram para uma depressão profunda. A queda da bolsa não foi a única causa da Grande Depressão, mas tornou-se símbolo da crise de confiança no capitalismo liberal. Nos anos 1930, o New Deal ampliou a intervenção federal e abriu um novo debate sobre regulação, proteção social e responsabilidade pública diante de crises econômicas.
+
+Entre 1836 e 1936, os Estados Unidos influenciaram a estrutura econômica moderna por sua capacidade de industrialização em escala continental, formação de grandes corporações, integração de mercados, produção em massa e desenvolvimento do consumo de massas. Ao mesmo tempo, sua trajetória mostrou que crescimento industrial acelerado podia gerar concentração de poder econômico, conflitos trabalhistas e crises financeiras sistêmicas.
+
+Pontos-chave:
+- Estados Unidos transformaram recursos naturais e mercado interno em poder industrial.
+- Ferrovias, aço, petróleo e eletricidade foram setores centrais.
+- Grandes corporações e produção em massa marcaram o capitalismo estadunidense.
+- O país influenciou padrões modernos de consumo, administração e escala produtiva.
+- A crise de 1929 expôs limites do capitalismo liberal e levou a maior intervenção estatal.
+
+Possíveis perguntas ao sistema:
+- Como os Estados Unidos se tornaram potência industrial?
+- Qual foi o papel da produção em massa?
+- Por que a crise de 1929 afetou o capitalismo industrial?
+- O modelo estadunidense era puramente liberal?
+
+Limitações:
+O texto resume tendências nacionais e não aprofunda diferenças regionais, relações raciais, a experiência indígena, escravidão anterior à Guerra Civil ou setores agrícolas.
+
+Fontes consultadas:
+- Library of Congress, Rise of Industrial America, 1876 to 1900.
+- Library of Congress, The Industrial Revolution in the United States.
+- Library of Congress, Railroads in the Late 19th Century.
+- Federal Reserve History, Stock Market Crash of 1929.

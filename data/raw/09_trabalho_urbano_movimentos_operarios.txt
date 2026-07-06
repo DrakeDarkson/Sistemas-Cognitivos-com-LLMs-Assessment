@@ -1,0 +1,52 @@
+Título: Trabalho urbano e movimentos operários na economia industrial
+
+Período principal: 1836-1936
+
+Temas:
+trabalho urbano; fábrica; proletariado; sindicatos; greves; urbanização; legislação trabalhista; socialismo; questão social
+
+Países e atores:
+trabalhadores industriais; mulheres; crianças; sindicatos; patrões; cidades industriais; partidos trabalhistas; Estados nacionais; reformadores sociais
+
+Observação metodológica:
+Este documento é um texto autoral/sintético em português, elaborado para servir como corpus didático de um sistema RAG. O conteúdo foi redigido por paráfrase e síntese a partir de fontes históricas confiáveis, sem reprodução literal extensa de textos externos. O objetivo é apoiar testes de recuperação semântica, geração de respostas fundamentadas e análise de limitações do pipeline.
+
+
+Texto:
+A industrialização transformou profundamente o trabalho. A expansão de fábricas, minas, ferrovias, portos e serviços urbanos deslocou milhões de pessoas do campo para cidades. O trabalho assalariado tornou-se cada vez mais importante, substituindo ou reduzindo formas anteriores de produção doméstica, artesanal e agrícola. Essa mudança criou uma nova classe trabalhadora urbana, dependente de salários e sujeita à disciplina das máquinas, dos horários e da supervisão fabril.
+
+As condições de trabalho no século XIX eram frequentemente duras. Jornadas longas, baixos salários, trabalho infantil, acidentes, doenças ocupacionais, habitações superlotadas e ausência de proteção social faziam parte da experiência de muitos trabalhadores. Mulheres e crianças eram empregadas em setores como têxteis, minas e serviços, muitas vezes recebendo salários menores. A urbanização rápida superava a capacidade de planejamento das cidades, criando problemas de saneamento, moradia, transporte e saúde pública.
+
+O sistema fabril alterou o ritmo da vida. O relógio, a pontualidade e a regularidade da produção ganharam importância. Trabalhadores passaram a vender tempo de trabalho em troca de salário, enquanto proprietários e administradores controlavam máquinas, matérias-primas e organização produtiva. Essa relação criou conflitos sobre jornada, remuneração, segurança, intensidade do trabalho e direito de associação.
+
+Movimentos operários surgiram como resposta a essas condições. Sindicatos, associações de trabalhadores, cooperativas, greves e partidos políticos buscaram defender salários, reduzir jornadas, melhorar segurança e conquistar direitos. Em muitos países, a organização sindical enfrentou repressão, leis restritivas e oposição patronal. Ainda assim, greves e mobilizações ajudaram a tornar públicas as queixas dos trabalhadores e pressionaram por reformas.
+
+A questão social tornou-se tema central da política moderna. O crescimento do socialismo, do anarquismo, do sindicalismo e dos partidos trabalhistas expressou a insatisfação com os efeitos desiguais da industrialização. Ao mesmo tempo, reformadores liberais, conservadores e religiosos também defenderam algum tipo de intervenção para evitar conflito social. A legislação trabalhista, a inspeção de fábricas, a limitação do trabalho infantil e sistemas iniciais de seguro social surgiram em parte como respostas a esse novo cenário.
+
+A Alemanha de Bismarck foi importante por introduzir políticas de seguro social no fim do século XIX, buscando integrar trabalhadores ao Estado e reduzir a atração do socialismo. No Reino Unido, reformas trabalhistas e urbanas avançaram gradualmente. Nos Estados Unidos, a organização sindical enfrentou forte resistência, mas greves e movimentos por melhores condições tiveram grande visibilidade. Em muitos lugares, a conquista de direitos foi lenta e marcada por conflitos violentos.
+
+O trabalho industrial também era diverso. Nem todos os trabalhadores viviam as mesmas experiências. Havia diferenças de qualificação, gênero, etnia, nacionalidade, raça, idade e setor. Trabalhadores especializados podiam ter maior poder de barganha; imigrantes e grupos marginalizados eram frequentemente usados como mão de obra barata. Em colônias e regiões dependentes, trabalho forçado, servidão por dívida e formas coercitivas coexistiram com o trabalho assalariado.
+
+Entre 1836 e 1936, a transformação do trabalho foi uma das consequências mais profundas da industrialização. A economia moderna não criou apenas fábricas e máquinas; criou novas relações sociais, conflitos políticos e demandas por cidadania social. O surgimento de sindicatos, partidos trabalhistas e legislação social mostra que o mundo industrial exigiu novas formas de negociação entre capital, trabalho e Estado.
+
+Pontos-chave:
+- A industrialização expandiu o trabalho assalariado urbano.
+- Condições de trabalho difíceis estimularam sindicatos e greves.
+- A questão social tornou-se central na política moderna.
+- Mulheres, crianças, imigrantes e trabalhadores não qualificados enfrentavam vulnerabilidades específicas.
+- Direitos trabalhistas surgiram de conflitos, reformas e organização coletiva.
+
+Possíveis perguntas ao sistema:
+- Como a industrialização mudou o trabalho urbano?
+- Por que surgiram sindicatos no século XIX?
+- Quais problemas sociais acompanharam a industrialização?
+- Como o Estado respondeu aos conflitos entre capital e trabalho?
+
+Limitações:
+O texto trata tendências gerais e privilegia países industrializados. Não aprofunda experiências de trabalhadores coloniais, escravizados, pós-escravidão ou rurais.
+
+Fontes consultadas:
+- Library of Congress, Work in the Late 19th Century.
+- U.S. Department of Labor, Chapter 3: The Labor Movement.
+- Encyclopaedia Britannica, Industrial Revolution.
+- History.com, Labor Movement.

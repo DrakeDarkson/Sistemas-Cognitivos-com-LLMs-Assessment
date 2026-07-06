@@ -1,0 +1,52 @@
+Título: Primeira Guerra Mundial e economia industrial
+
+Período principal: 1914-1918, com efeitos até 1936
+
+Temas:
+Primeira Guerra Mundial; guerra total; indústria; finanças públicas; mobilização; armamentos; Estado; trabalhadores; pós-guerra
+
+Países e atores:
+Reino Unido; Alemanha; França; Rússia; Estados Unidos; Canadá; impérios europeus; trabalhadores; soldados; governos; indústrias de armamentos
+
+Observação metodológica:
+Este documento é um texto autoral/sintético em português, elaborado para servir como corpus didático de um sistema RAG. O conteúdo foi redigido por paráfrase e síntese a partir de fontes históricas confiáveis, sem reprodução literal extensa de textos externos. O objetivo é apoiar testes de recuperação semântica, geração de respostas fundamentadas e análise de limitações do pipeline.
+
+
+Texto:
+A Primeira Guerra Mundial demonstrou de forma dramática que a industrialização havia transformado a guerra e a economia. O conflito não foi apenas confronto entre exércitos; envolveu mobilização de fábricas, ferrovias, minas, agricultura, finanças, ciência, trabalho feminino, propaganda e administração estatal. Por isso, costuma ser associado ao conceito de guerra total, no qual sociedades inteiras são reorganizadas para sustentar o esforço militar.
+
+A capacidade industrial tornou-se fator decisivo. Exércitos precisavam de artilharia, metralhadoras, munições, uniformes, alimentos, locomotivas, caminhões, navios, telégrafos, arame farpado, produtos químicos e equipamentos médicos. A guerra de trincheiras exigiu produção contínua de munições em escala gigantesca. A indústria pesada, especialmente aço, carvão, explosivos e engenharia mecânica, foi mobilizada para fins militares. Países com maior capacidade produtiva e acesso a matérias-primas tinham vantagem estratégica.
+
+Ferrovias foram essenciais para transportar tropas, armas e suprimentos. Planos militares dependiam de horários ferroviários, capacidade de carga e coordenação logística. Portos, navios e bloqueios marítimos também tiveram papel econômico central. A guerra não se travou apenas nos campos de batalha, mas também nas cadeias de abastecimento. Bloqueios e controle de rotas afetaram alimentos, combustíveis e matérias-primas.
+
+O Estado ampliou sua intervenção na economia. Governos passaram a controlar preços, direcionar produção, administrar importações, emitir dívida, aumentar impostos, organizar trabalho e regular consumo. Em alguns países, ministérios específicos foram criados para coordenar munições e produção. A separação entre economia privada e objetivo público tornou-se menos nítida durante o conflito. Empresas privadas lucraram com contratos militares, mas também foram submetidas a prioridades estatais.
+
+A guerra alterou o trabalho. Milhões de homens foram mobilizados para o front, abrindo espaço para maior participação feminina em fábricas, transportes, agricultura e serviços. Trabalhadores enfrentaram pressão por produtividade, escassez, inflação e disciplina. Ao mesmo tempo, sindicatos e movimentos trabalhistas ganharam poder em alguns contextos, pois o esforço de guerra dependia da colaboração da força de trabalho.
+
+O financiamento da guerra teve consequências duradouras. Governos recorreram a impostos, empréstimos, emissão monetária e endividamento externo. Após 1918, dívidas de guerra, reparações, inflação e instabilidade cambial afetaram a economia internacional. A Alemanha enfrentou problemas profundos no pós-guerra, incluindo reparações e hiperinflação no início dos anos 1920. O Reino Unido e a França saíram vitoriosos, mas financeiramente enfraquecidos. Os Estados Unidos emergiram como credor importante e potência econômica ainda mais influente.
+
+A Primeira Guerra também acelerou mudanças tecnológicas. Aviação, veículos motorizados, química, comunicações e medicina foram impulsionados pelo conflito. No entanto, essa inovação ocorreu em contexto de destruição e morte em massa. A guerra mostrou o lado destrutivo da economia industrial: a mesma capacidade produtiva que fabricava bens, ferrovias e máquinas podia ser orientada para armamentos e devastação.
+
+Entre 1836 e 1936, a Primeira Guerra Mundial foi um ponto de inflexão porque revelou a relação entre indústria, Estado e poder militar. Também abalou a confiança na ideia de progresso automático associado à tecnologia. Depois da guerra, a economia mundial tornou-se mais instável, abrindo caminho para crises políticas, protecionismo, radicalização ideológica e, posteriormente, a Grande Depressão.
+
+Pontos-chave:
+- A Primeira Guerra foi uma guerra industrial e de mobilização econômica.
+- Indústria pesada, ferrovias, química, agricultura e finanças foram fundamentais.
+- Estados ampliaram intervenção na produção e no consumo.
+- O pós-guerra trouxe dívidas, inflação, reparações e instabilidade.
+- O conflito mostrou que a industrialização podia produzir destruição em escala inédita.
+
+Possíveis perguntas ao sistema:
+- Como a Primeira Guerra transformou a economia industrial?
+- O que significa guerra total?
+- Qual foi o papel das fábricas e ferrovias no conflito?
+- Como a guerra afetou o poder econômico dos Estados Unidos?
+
+Limitações:
+O texto oferece uma visão geral da economia de guerra e não detalha todos os países beligerantes, frentes militares ou tratados de paz.
+
+Fontes consultadas:
+- National WWI Museum and Memorial, How Does Total War Affect Society?
+- Canadian War Museum, The War Economy: Finance and War Production.
+- NBER, The Economics of World War I.
+- 1914-1918 Online, Organization of War Economies.

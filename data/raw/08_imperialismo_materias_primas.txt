@@ -1,0 +1,51 @@
+Título: Imperialismo, matérias-primas e mercados na era industrial
+
+Período principal: aproximadamente 1870-1914, com efeitos até 1936
+
+Temas:
+Novo Imperialismo; matérias-primas; mercados consumidores; colônias; comércio mundial; extração; desigualdade; infraestrutura colonial
+
+Países e atores:
+Reino Unido; França; Alemanha; Bélgica; Itália; Japão; Estados Unidos; impérios coloniais; África; Ásia; populações colonizadas; empresas comerciais
+
+Observação metodológica:
+Este documento é um texto autoral/sintético em português, elaborado para servir como corpus didático de um sistema RAG. O conteúdo foi redigido por paráfrase e síntese a partir de fontes históricas confiáveis, sem reprodução literal extensa de textos externos. O objetivo é apoiar testes de recuperação semântica, geração de respostas fundamentadas e análise de limitações do pipeline.
+
+
+Texto:
+A industrialização e o imperialismo estiveram profundamente conectados no fim do século XIX e início do século XX. O período conhecido como Novo Imperialismo foi marcado por intensificação da expansão colonial, especialmente na África e na Ásia, e envolveu tanto antigas potências coloniais quanto países recém-industrializados ou em busca de maior influência internacional. Reino Unido e França ampliaram seus impérios; Alemanha, Itália, Japão, Rússia e Estados Unidos também buscaram áreas de influência, recursos e prestígio.
+
+A economia industrial exigia matérias-primas em grande escala. Algodão, borracha, cobre, estanho, carvão, petróleo, madeira, minérios, produtos agrícolas tropicais e alimentos tornaram-se estratégicos para fábricas, transportes, comunicações e consumo urbano. Colônias e regiões dependentes frequentemente foram organizadas para fornecer esses recursos a preços favoráveis às metrópoles ou empresas estrangeiras. A extração de matérias-primas podia ser acompanhada por trabalho forçado, impostos coercitivos, apropriação de terras e destruição de economias locais.
+
+Além de matérias-primas, as potências industriais buscavam mercados consumidores. A produção mecanizada gerava grandes volumes de mercadorias, e empresas precisavam vender tecidos, máquinas, ferramentas, produtos químicos e bens manufaturados. Colônias podiam ser transformadas em mercados cativos, com tarifas, infraestrutura e políticas comerciais moldadas para favorecer a metrópole. Em muitos casos, isso prejudicou manufaturas locais e reforçou relações econômicas desiguais.
+
+Infraestruturas coloniais, como ferrovias, portos, telégrafos e estradas, tiveram papel ambíguo. Por um lado, ampliaram circulação, conectaram regiões e introduziram novas tecnologias. Por outro, muitas foram planejadas prioritariamente para exportar recursos do interior para portos, e não para integrar economias locais de forma equilibrada. A ferrovia colonial frequentemente servia à lógica da extração, do controle militar e da exportação.
+
+O imperialismo também envolveu justificativas ideológicas. Potências europeias frequentemente apresentavam sua expansão como missão civilizadora, progresso, cristianização ou modernização. Essas justificativas ocultavam relações de dominação, racismo, violência e exploração econômica. A industrialização forneceu meios materiais para a expansão imperial: navios a vapor, armas modernas, telégrafo, medicina tropical e burocracias administrativas.
+
+A competição imperial aumentou rivalidades entre potências. A busca por territórios, rotas, bases navais e prestígio contribuiu para tensões internacionais que antecederam a Primeira Guerra Mundial. Embora a guerra não possa ser explicada apenas pelo imperialismo, a disputa global por poder econômico e territorial criou ambiente de competição intensa.
+
+Para a economia moderna, o imperialismo foi importante porque ajudou a consolidar uma divisão internacional do trabalho. Países industrializados concentravam manufatura, finanças, tecnologia e poder militar; regiões colonizadas ou dependentes eram frequentemente orientadas para exportar matérias-primas e importar produtos manufaturados. Essa estrutura gerou dependências duradouras e desigualdades que continuaram mesmo após processos de independência política no século XX.
+
+Entre 1836 e 1936, o imperialismo mostra que a industrialização não foi apenas processo interno aos países ricos. Ela reorganizou relações globais, conectou fábricas europeias e norte-americanas a minas, plantações, portos e trabalhadores em outras regiões do mundo. A economia industrial moderna nasceu, portanto, em um sistema internacional desigual.
+
+Pontos-chave:
+- O Novo Imperialismo intensificou a expansão colonial entre o fim do século XIX e 1914.
+- Potências industriais buscavam matérias-primas, mercados, rotas e prestígio.
+- Infraestruturas coloniais frequentemente serviam à extração e à exportação.
+- A industrialização fortaleceu meios técnicos e militares do imperialismo.
+- A divisão internacional do trabalho reforçou desigualdades globais.
+
+Possíveis perguntas ao sistema:
+- Como a industrialização se relacionou com o imperialismo?
+- Por que matérias-primas eram importantes para países industrializados?
+- As ferrovias coloniais beneficiavam as colônias?
+- O imperialismo contribuiu para a Primeira Guerra Mundial?
+
+Limitações:
+O texto apresenta visão geral e não aprofunda casos específicos como Índia, Congo, Egito, China, Argélia, Filipinas ou América Latina. Também não detalha resistências anticoloniais.
+
+Fontes consultadas:
+- Encyclopaedia Britannica, New Imperialism.
+- Encyclopaedia Britannica, Industrial Revolution: key facts.
+- British Library, The Industrial Revolution.
